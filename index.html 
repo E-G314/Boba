@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head>Why I Should Get Boba 
+        <link rel="stylesheet" href+"style.css" />
+    </head>
+    <body>
+        <h1>I put in lots of effort.</h1>
+        <p>
+            <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bubble_Tea.png/320px-Bubble_Tea.png"
+            />    
+        </p>
+        
+    </body>
+</html>
